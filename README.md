@@ -3,15 +3,15 @@
   
 # Hello 👋
 
-## My name is ***Alezuna Zikri Pohan***
+## My name is ***Alezuna Zikri Pohan*** and I'm a Software Engineer
 
-im from 
+im from Asahan , North Sumatera. and I'm a Student of IDN Boarding School Pamijahan Bogor
 
-# My skills 🔧
+# My Skills 🔧
 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Javascript](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![PHP](	https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Dart](	https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-# My stats 📈
+# My Stats 📈
 
 ![Trphies](https://github-trophies.vercel.app/?username=alezunazikri&row=1&theme=nord)
 
