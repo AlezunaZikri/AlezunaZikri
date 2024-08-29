@@ -3,9 +3,9 @@
   
 # Hello 👋
 
-## My name is ***Alezuna Zikri Pohan*** and I'm a Software Engineer
+## My name is ***Alezuna M. Zikri Pohan*** and I'm a Software Engineer
 
-im from Asahan , North Sumatera. and I'm a Student of IDN Boarding School Pamijahan Bogor
+I'm from Asahan , North Sumatera. and I'm a Student of IDN Boarding School Pamijahan Bogor.
 
 # My Skills 🔧
 
