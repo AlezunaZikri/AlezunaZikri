@@ -12,7 +12,7 @@ I'm from Asahan , North Sumatera. and I'm a Student of IDN Boarding School Pamij
 
 <h3>Connect with me:</h3>
 <p>
-<a href="ttps://www.linkedin.com/in/alezuna-m-zikri-pohan-b84679285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/faradiansyah-rokan-a18480248" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alezuna-m-zikri-pohan-b84679285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/faradiansyah-rokan-a18480248" height="30" width="40" /></a>
 <a href="https://www.instagram.com/alezuna_zik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rokhansz" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@zikripohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rokan" height="30" width="40" /></a>
 </p>
