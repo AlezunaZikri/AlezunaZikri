@@ -35,4 +35,7 @@ I'm from Asahan , North Sumatera. and I'm a Student of IDN Boarding School Pamij
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=alezunazikri&theme=highcontrast)](https://git.io/streak-stats)
 
+ <img width=500 src="https://github-contributor-stats.vercel.app/api?username=alezunazikri&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="gagal">
+</div>
+
 </div>
