@@ -1,6 +1,5 @@
-
 <div align="center">
-<img align="right" src="[https://visitor-badge.laobi.icu/badge?page_id=140593408](https://visitor-badge.laobi.icu/badge?page_id=alezunazikri.alezunazikri)" />
+
 # Hello 👋
 
 ## My name is ***Alezuna M. Zikri Pohan*** and I'm a Software Engineer
