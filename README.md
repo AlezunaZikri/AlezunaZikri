@@ -1,10 +1,5 @@
 <div align="center">
 
-# Hello 👋
-
-## My name is ***Alezuna M. Zikri Pohan*** and I'm a Software Engineer
-
-I'm from Asahan , North Sumatera. and I'm a Student of IDN Boarding School Pamijahan Bogor.
 
 <p><img src="https://img.shields.io/github/followers/alezunazikri?label=Followers&logo=Github&theme=nord" /> </p>
 
