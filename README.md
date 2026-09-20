@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Alezuna Zikri 👋
+# Hi, I'm Alezuna M. Zikri Pohan 👋
 
-### Software Engineering Graduate • IT Student • Problem Solver
+### Software Engineering • IT Student • Problem Solver
 
 <p>
   <i>Turning problems into practical solutions.</i>
